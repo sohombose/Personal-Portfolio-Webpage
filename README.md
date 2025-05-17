@@ -72,14 +72,14 @@ Overall, the Personal Portfolio Webpage project allowed me to implement front-en
 
 # OUTPUT
 
-![Image](https://github.com/user-attachments/assets/7bd2d8aa-33d2-4c57-b008-f95f293c99a9)
-
-![Image](https://github.com/user-attachments/assets/c6dca709-2cac-4376-baf3-c2531225c7be)
-
-![Image](https://github.com/user-attachments/assets/4f94f11d-fdb2-44bc-bfe7-4b3a81a8eef5)
-
-![Image](https://github.com/user-attachments/assets/c3cd247c-7586-416c-b175-35bc33d57aeb)
+![Image](https://github.com/user-attachments/assets/ec420aad-97ac-4d2a-b332-2fc8ae9e4900)
 
 ![Image](https://github.com/user-attachments/assets/b441bdd4-4f01-4d1b-a98a-b7ed1ecd404b)
 
-![Image](https://github.com/user-attachments/assets/ec420aad-97ac-4d2a-b332-2fc8ae9e4900)
+![Image](https://github.com/user-attachments/assets/c3cd247c-7586-416c-b175-35bc33d57aeb)
+
+![Image](https://github.com/user-attachments/assets/4f94f11d-fdb2-44bc-bfe7-4b3a81a8eef5)
+
+![Image](https://github.com/user-attachments/assets/c6dca709-2cac-4376-baf3-c2531225c7be)
+
+![Image](https://github.com/user-attachments/assets/7bd2d8aa-33d2-4c57-b008-f95f293c99a9)
